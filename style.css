@@ -1,0 +1,3848 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+
+#bienvenue img {
+    opacity: 0.5;
+}
+
+.titreh2test {
+    display: flex;
+    z-index: 5;
+    color: white;
+    position: absolute;
+    font-family: 'source code pro';
+    font-size: 2rem;
+    margin-left: 10%;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+.Sh2 {
+    animation: Sh2 5s infinite;
+}
+
+@keyframes Sh2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 1;
+    }
+    6.999% {
+        opacity: 1;
+    }
+    7% {
+        opacity: 1;
+    }
+    13.999%{
+        opacity: 1;
+    }
+    14% {
+        opacity: 1;
+    }
+    20.999% {
+        opacity: 1;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 1;
+    }
+    92% {
+        opacity: 1;
+    }
+    93.999% {
+        opacity: 1;
+    }
+    94% {
+        opacity: 1;
+    }
+    95.999% {
+        opacity: 1;
+    }
+    96% {
+        opacity: 1;
+    }
+    97.999% {
+        opacity: 1;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.eh2 {
+    animation: eh2 5s infinite;
+}
+
+@keyframes eh2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 1;
+    }
+    13.999%{
+        opacity: 1;
+    }
+    14% {
+        opacity: 1;
+    }
+    20.999% {
+        opacity: 1;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 1;
+    }
+    92% {
+        opacity: 1;
+    }
+    93.999% {
+        opacity: 1;
+    }
+    94% {
+        opacity: 1;
+    }
+    95.999% {
+        opacity: 1;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.rh2 {
+    animation: rh2 5s infinite;
+}
+
+@keyframes rh2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 1;
+    }
+    20.999% {
+        opacity: 1;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 1;
+    }
+    92% {
+        opacity: 1;
+    }
+    93.999% {
+        opacity: 1;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.vh2 {
+    animation: vh2 5s infinite;
+}
+
+@keyframes vh2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.ih2 {
+    animation: ih2 5s infinite;
+}
+
+@keyframes ih2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.ch2 {
+    animation: ch2 5s infinite;
+}
+
+@keyframes ch2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 0;
+    }
+    34.999% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 0;
+    }
+    89.999% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.e2h2 {
+    animation: e2h2 5s infinite;
+}
+
+@keyframes e2h2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 0;
+    }
+    34.999% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 0;
+    }
+    41.999% {
+        opacity: 0;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 0;
+    }
+    89.999% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.s2h2 {
+    animation: s2h2 5s infinite;
+}
+
+@keyframes s2h2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 0;
+    }
+    34.999% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 0;
+    }
+    41.999% {
+        opacity: 0;
+    }
+    42% {
+        opacity: 0;
+    }
+    48.999% {
+        opacity: 0;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 0;
+    }
+    87.999% {
+        opacity: 0;
+    }
+    88% {
+        opacity: 0;
+    }
+    89.999% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.cursorh2 {
+    animation: cursorh2 5s infinite;
+}
+
+@keyframes cursorh2 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 0;
+    }
+    34.999% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 0;
+    }
+    41.999% {
+        opacity: 0;
+    }
+    42% {
+        opacity: 0;
+    }
+    48.999% {
+        opacity: 0;
+    }
+    49% {
+        opacity: 0;
+    }
+    55.999% {
+        opacity: 0;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 0;
+    }
+    69.999% {
+        opacity: 0;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 0;
+    }
+    83.999% {
+        opacity: 0;
+    }
+    84% {
+        opacity: 0;
+    }
+    85.999% {
+        opacity: 0;
+    }
+    86% {
+        opacity: 0;
+    }
+    87.999% {
+        opacity: 0;
+    }
+    88% {
+        opacity: 0;
+    }
+    89.999% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.Sh22 {
+    animation: Sh22 5s infinite;
+}
+
+@keyframes Sh22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 1;
+    }
+    6.999% {
+        opacity: 1;
+    }
+    7% {
+        opacity: 1;
+    }
+    13.999%{
+        opacity: 1;
+    }
+    14% {
+        opacity: 1;
+    }
+    20.999% {
+        opacity: 1;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 1;
+    }
+    92% {
+        opacity: 1;
+    }
+    93.999% {
+        opacity: 1;
+    }
+    94% {
+        opacity: 1;
+    }
+    95.999% {
+        opacity: 1;
+    }
+    96% {
+        opacity: 1;
+    }
+    97.999% {
+        opacity: 1;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.ah22 {
+    animation: ah22 5s infinite;
+}
+
+@keyframes ah22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 1;
+    }
+    13.999%{
+        opacity: 1;
+    }
+    14% {
+        opacity: 1;
+    }
+    20.999% {
+        opacity: 1;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 1;
+    }
+    92% {
+        opacity: 1;
+    }
+    93.999% {
+        opacity: 1;
+    }
+    94% {
+        opacity: 1;
+    }
+    95.999% {
+        opacity: 1;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.vh22 {
+    animation: vh22 5s infinite;
+}
+
+@keyframes vh22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 1;
+    }
+    20.999% {
+        opacity: 1;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 1;
+    }
+    92% {
+        opacity: 1;
+    }
+    93.999% {
+        opacity: 1;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.oh22 {
+    animation: oh22 5s infinite;
+}
+
+@keyframes oh22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 1;
+    }
+    27.999% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.ih22 {
+    animation: ih22 5s infinite;
+}
+
+@keyframes ih22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 1;
+    }
+    34.999% {
+        opacity: 1;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 1;
+    }
+    89.999% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.rh22 {
+    animation: rh22 5s infinite;
+}
+
+@keyframes rh22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 0;
+    }
+    34.999% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 1;
+    }
+    41.999% {
+        opacity: 1;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 0;
+    }
+    89.999% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.s2h22 {
+    animation: s2h22 5s infinite;
+}
+
+@keyframes s2h22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 0;
+    }
+    34.999% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 0;
+    }
+    41.999% {
+        opacity: 0;
+    }
+    42% {
+        opacity: 1;
+    }
+    48.999% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 1;
+    }
+    62.999% {
+        opacity: 1;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 1;
+    }
+    76.999% {
+        opacity: 1;
+    }
+    77% {
+        opacity: 1;
+    }
+    83.999% {
+        opacity: 1;
+    }
+    84% {
+        opacity: 1;
+    }
+    85.999% {
+        opacity: 1;
+    }
+    86% {
+        opacity: 1;
+    }
+    87.999% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 0;
+    }
+    89.999% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.cursorh22 {
+    animation: cursorh2 5s infinite;
+}
+
+@keyframes cursorh22 {
+    0% {
+        opacity: 0;
+    }
+    0.99% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 0;
+    }
+    6.999% {
+        opacity: 0;
+    }
+    7% {
+        opacity: 0;
+    }
+    13.999%{
+        opacity: 0;
+    }
+    14% {
+        opacity: 0;
+    }
+    20.999% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    27.999% {
+        opacity: 0;
+    }
+    28% {
+        opacity: 0;
+    }
+    34.999% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 0;
+    }
+    41.999% {
+        opacity: 0;
+    }
+    42% {
+        opacity: 0;
+    }
+    48.999% {
+        opacity: 0;
+    }
+    49% {
+        opacity: 1;
+    }
+    55.999% {
+        opacity: 1;
+    }
+    56% {
+        opacity: 0;
+    }
+    62.999% {
+        opacity: 0;
+    }
+    63% {
+        opacity: 1;
+    }
+    69.999% {
+        opacity: 1;
+    }
+    70% {
+        opacity: 0;
+    }
+    76.999% {
+        opacity: 0;
+    }
+    77% {
+        opacity: 0;
+    }
+    83.999% {
+        opacity: 0;
+    }
+    84% {
+        opacity: 0;
+    }
+    85.999% {
+        opacity: 0;
+    }
+    86% {
+        opacity: 0;
+    }
+    87.999% {
+        opacity: 0;
+    }
+    88% {
+        opacity: 0;
+    }
+    89.999% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    91.999% {
+        opacity: 0;
+    }
+    92% {
+        opacity: 0;
+    }
+    93.999% {
+        opacity: 0;
+    }
+    94% {
+        opacity: 0;
+    }
+    95.999% {
+        opacity: 0;
+    }
+    96% {
+        opacity: 0;
+    }
+    97.999% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 0;
+    }
+    99.999% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+
+body {
+    background: black;
+}
+
+#loader {
+    height: 100vh;
+    width: 100%;
+    background: black;
+    position: fixed;
+    z-index: 0;
+    opacity: 0;
+    user-select: none;
+    animation: loader 2.7s;
+}
+
+#blackbgslide1 {
+    position: absolute;
+    animation: bg1Animation 0.21s infinite;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+}
+
+#blackbgslide2 {
+    position: absolute;
+    animation: bg2Animation 0.21s infinite;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+}
+
+@keyframes bg1Animation {
+    0% {
+        z-index: 1;
+    }
+    49.99% {
+        z-index: 1;
+    }
+    50% {
+        z-index: 2;
+    }
+    99.99% {
+        z-index: 2;
+    }
+}
+
+@keyframes bg2Animation {
+    0% {
+        z-index: 2;
+    }
+    49.99% {
+        z-index: 2;
+    }
+    50% {
+        z-index: 1;
+    }
+    99.99% {
+        z-index: 1;
+    }
+}
+
+@keyframes loader {
+    0% {
+        z-index: 10;
+        opacity: 1;
+    }
+    80% {
+        z-index: 10;
+        opacity: 1;
+    }
+    100% {
+        z-index: 0;
+        opacity: 0;
+    }
+}
+
+#loaderanim {
+    margin-left: 43.5%;
+    margin-top: 14%;
+    position: relative;
+    justify-content: center;
+}
+
+#loaders {
+    position: absolute;
+    animation: loaders 1.4s;
+    z-index: 11;
+}
+
+#loadertexte {
+    position: absolute;
+    padding-top: 59px;
+    padding-left: 18px;
+    animation: loadertexte 1.4s linear;
+    z-index: 12;
+}
+
+@keyframes loaders {
+    0% {
+       transform: rotateX(90deg);
+    }
+    65% {
+        transform: rotateX(0deg);
+    }
+    100% {
+        transform: rotateX(0deg);
+    }
+}
+
+@keyframes loadertexte {
+    0% {
+       z-index: 0;
+       opacity: 0;
+    }
+    70% {
+        transform: rotateX(90deg);
+        z-index: 12;
+        opacity: 1;
+    }
+    100% {
+        transform: rotateX(0deg);
+        z-index: 12;
+        opacity: 1;
+    }
+}
+
+
+.bg {
+    position: fixed;
+}
+
+h1 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: rgb(212, 212, 212);
+    font-family: 'montserrat', sans-serif;
+}
+
+.line {
+    height: 0.5px;
+    background: rgb(189, 189, 189);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: rgb(0, 0, 0);
+    user-select: none;
+}
+
+#nav {
+    position: absolute;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 8;
+    background: rgba(0, 0, 0, 0.6);
+    opacity: 1;
+    backdrop-filter: blur(4px);
+}
+
+#nav ul {
+    display: flex;
+    justify-content: right;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#nav ul img {
+    filter: invert(80%);
+    height: 20px;
+}
+
+#nav li {
+    padding-right: 60px;
+    padding-top: 18px;
+    padding-bottom: 17px;
+    list-style: none;
+}
+
+a,
+a ul {
+    text-decoration: none;
+    list-style: none;
+    color: rgba(255, 255, 255, 0.83);
+    font-size: 0.92rem;
+    font-weight: bold;
+}
+
+ul a:hover, ul a:active {
+    color: white;
+    font-weight: bold;
+}
+
+@media (max-width: 900px) {
+    #nav {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 50px;
+    }
+    #nav ul {
+        display: flex;
+        justify-content: space-around;
+        text-transform: uppercase;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #nav li {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 0;
+    }
+    a,
+    a ul {
+        text-decoration: none;
+        list-style: none;
+        font-size: 0.7rem;
+}
+#nav ul img {
+    filter: invert(80%);
+    padding-top: 3px;
+    height: 15px;
+}
+}
+
+body {
+    background: rgb(255, 255, 255);
+}
+#bienvenue {
+    height: 100vh;
+    font-family: 'montserrat', sans-serif;
+    background: url(media/bgtest2.jpg) center/cover;
+    background-attachment: fixed;
+    z-index: 3;
+    position: relative;
+}
+
+#bienvenue img {
+    opacity: 0;
+}
+
+.positiontitreaccroche {
+    margin-left: 128px;
+    margin-right: 128px;
+    position: absolute;
+    margin-top: 16%;
+    z-index: 4;
+}
+
+.titre {
+    font-size: 3.5rem;
+    animation: titreAnimation 4.7s;
+    color: rgb(0, 0, 0);
+    z-index: 4;
+    text-shadow: black 2px 2px 5px;
+}
+
+.accroche {
+    font-size: 1.2rem;
+    animation: accrocheAnimation 4.7s;
+    color: rgb(244, 244, 244);
+    font-weight: bolder;
+    line-height: 35px;
+    z-index: 4;
+    padding-top: 20px;
+    padding-left: 7px;
+    text-shadow: black 2px 2px 5px;
+}
+
+.bgbienvenue {
+    background-color: aqua;
+}
+
+@keyframes titreAnimation {
+    52% {
+        transform: rotateX(90deg);
+        opacity: 0;
+        z-index: 5;
+    }
+    100% {
+        transform: rotateX (0deg);
+        z-index: 5;
+    }
+}
+
+@keyframes accrocheAnimation {
+    57% {
+        transform: rotateX(45deg);
+        opacity: 0;
+    }
+    77% {
+        transform: rotateX(45deg);
+        z-index: 4;
+        opacity: 0;
+    }
+    100% {
+        transform: rotateX (0deg);
+        z-index: 4;
+        opacity: 1;
+    }
+}
+
+
+@media (max-width: 900px) {
+    #bienvenue {
+        height: 100vh;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .titre {
+        font-size: 2rem;
+    }
+    .accroche {
+        padding-top: 15px;
+        font-size: 1rem;
+        line-height: 27.5px;
+    }
+    .positiontitreaccroche {
+        margin-left: 7%;
+        margin-right: 7%;
+        position: absolute;
+        margin-top: 160px;
+        z-index: 4;
+        width: 86%;
+    }
+}
+
+.accueil {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: rgb(0, 0, 0);
+    color: rgb(211, 211, 211);
+    padding-bottom: 50px;
+}
+
+.accueil #blackbgslide1, .accueil #blackbgslide2 {
+    height: 480px;
+}
+
+.avatar {
+    z-index: 4;
+}
+
+#avatar {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    margin-left: 40%;
+    z-index: 4;
+    background: url(media/avatar.JPG);
+    border: rgb(167, 167, 167) 1px solid;
+    opacity: 1;
+    margin-right: 30px;
+}
+
+
+
+#presentation {
+    animation: presAnimation 0.8s;
+    width: 60%;
+    font-family: 'montserrat', sans-serif;
+    line-height: 25px;
+    margin-right: 10%;
+    margin-left: 15%;
+    padding: 15px;
+    animation-play-state: paused;
+    z-index: 3;
+    text-align: justify;
+}
+
+strong {
+    font-size: 1.2rem;
+    line-height: 20px;
+}
+
+@media (max-width:900px) {
+    .accueil {
+        height: 800px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%
+    }
+
+    .containeraccueil {
+        height: 800px;
+    }
+
+    #avatar{
+        height: 270px;
+        width: 270px;
+        border-radius: 135px;
+        margin: auto;
+    }
+    .presentation {
+        margin-top: 60px;
+        margin-right: 8%;
+        margin-left: 8%;
+        width: 84%;
+        font-family: 'montserrat';
+        font-size: 1rem;
+        line-height: 22px;
+    }
+    #presentation {
+        width: 100%;
+    }
+}
+
+
+@keyframes avatarAnimation {
+   0% {
+    margin-left: -100%;
+   }
+   100% {
+    margin-left: 40%;
+   }
+}
+
+.titreh2 {
+    margin-left: 9.5%;
+    padding-bottom: 60px;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 1.7rem;
+    position: relative;
+    user-select: none;
+}
+
+#titreh2anim {
+    margin-top: 50px;
+    position: absolute;
+    z-index: 3;
+}
+
+#animtitre {
+    height: 80px;
+    position: absolute;
+    background: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 3rem;
+    z-index: 2;
+    animation: h2Animation 6s infinite;
+}
+
+.projets {
+    background: black;
+    position: relative;
+    z-index: 5;
+    height: 105vh;
+    margin-top: -100px;
+}
+
+.projets .titreh2test {
+    padding-top: 100px;
+    color: rgb(30, 30, 30);
+}
+
+#containerprojets {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 230px;
+    margin-bottom: 100px;
+    align-items: center;
+}
+
+.carousel1 {
+    width: 420px;
+    height: 210px;
+    position: relative;
+    overflow: hidden;
+    z-index: 3;
+}
+
+.carousel2 {
+    width: 420px;
+    height: 210px;
+    position: relative;
+    overflow: hidden;
+    z-index: 3;
+}
+
+.gray {
+    width: 420px;
+    height: 210px;
+    z-index: 6;
+    background-color: rgba(2, 2, 2, 0.852);
+    color: rgb(184, 184, 184);
+    font-family: 'Montserrat', sans-serif;
+    overflow: hidden;
+    position: absolute;
+}
+
+.containerprojets a {
+    overflow: hidden;
+}
+
+.titreh3 {
+    width: 80%;
+    margin-top: 17%;
+    margin-left: 10%;
+    font-size: 1.2rem;
+}
+
+a:hover .gray, a:hover #slide11bis, a:hover #slide11, a:hover #slide12, a:hover #slide13 {
+    z-index: 0;
+    filter: blur(0);
+}
+
+#slide11bis, #slide11, #slide12, #slide13 {
+    position: absolute;
+    width: 430px;
+    height: 210px;
+    margin-left: -12px;
+}
+
+#slide21bis, #slide21, #slide22, #slide23 {
+    width: 420px;
+    height: 210px;
+    position: absolute;
+    overflow: hidden;
+}
+
+
+#slide11, #slide11bis {
+    z-index: 5;
+    animation: slide11Animation 6s infinite;
+    filter: blur(5px);
+}
+
+#slide12 {
+    animation: slide12Animation 6s infinite;
+    filter: blur(5px);
+}
+
+#slide13 {
+    animation: slide13Animation 6s infinite;
+    filter: blur(5px);
+}
+
+@keyframes slide11Animation {
+    0% {
+        z-index: 4;
+    }
+    15% {
+        z-index: 4;
+    }
+    50% {
+        z-index: 0;
+    }
+    80% {
+        z-index: 0;
+    }
+}
+
+@keyframes slide12Animation {
+    0% {
+        z-index: 0;
+    }
+    15% {
+        z-index: 0;
+    }
+    50% {
+        z-index: 3;
+    }
+    80% {
+        z-index: 0;
+    }
+}
+
+@keyframes slide13Animation {
+    0% {
+        z-index: 0;
+    }
+    15% {
+        z-index: 0;
+    }
+    50% {
+        z-index: 0;
+    }
+    80% {
+        z-index: 3;
+    }
+}
+
+a:hover .gray, a:hover #slide21bis, a:hover #slide21, a:hover #slide22, a:hover #slide23 {
+    z-index: 0;
+    filter: blur(0);
+}
+
+a:hover .gray {
+    transition: 0.3s ease-in-out;
+    opacity: 0;
+}
+
+
+#slide21, #slide21bis {
+    z-index: 4;
+    animation: slide21Animation 6s infinite;
+    filter: blur(5px);
+}
+
+#slide22 {
+    animation: slide22Animation 6s infinite;
+    filter: blur(5px);
+}
+
+#slide23 {
+    animation: slide23Animation 6s infinite;
+    filter: blur(5px);
+}
+
+@keyframes slide21Animation {
+    0% {
+        z-index: 5;
+    }
+    15% {
+        z-index: 5;
+    }
+    50% {
+        z-index: 0;
+    }
+    80% {
+        z-index: 0;
+    }
+}
+
+@keyframes slide22Animation {
+    0% {
+        z-index: 0;
+    }
+    14% {
+        z-index: 0;
+    }
+    50% {
+        z-index: 5;
+    }
+    80% {
+        z-index: 0;
+    }
+}
+@keyframes slide23Animation {
+    0% {
+        z-index: 0;
+    }
+    15% {
+        z-index: 0;
+    }
+    50% {
+        z-index: 0;
+    }
+    79% {
+        z-index: 5;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 1150px) {
+    #containerprojets {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 100px;
+        margin-bottom: 70px;
+        align-items: center;
+        margin-left: 9%;
+        margin-right: 9%;
+    }
+    .carousel1 {
+        width: 360px;
+        height: 180px;
+        position: relative;
+        overflow: hidden;
+        margin-right: 5%;
+    }
+
+    .carousel2 {
+        width: 360px;
+        height: 180px;
+        position: relative;
+        overflow: hidden;
+        margin-left: 5%;
+    }
+
+    #slide11bis, #slide11, #slide12, #slide13 {
+        position: absolute;
+        width: 370px;
+        height: 180px;
+        margin-left: -12px;
+    }
+    
+    #slide21bis, #slide21, #slide22, #slide23 {
+        width: 370px;
+        height: 180px;
+        position: absolute;
+        margin-left: -12px;
+    }
+    .gray {
+        width: 370px;
+        height: 180px;
+        z-index: 6;
+        background-color: rgba(2, 2, 2, 0.852);
+        color: rgb(184, 184, 184);
+        font-size: 1.4rem;
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+
+@media (min-width: 681px) and (max-width: 900px) {
+    #containerprojets {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top: 90px;
+        margin-bottom: 70px;
+        align-items: center;
+        margin-left: 9%;
+        margin-right: 9%;
+    }
+
+    .projets {
+        height: 900px;
+    }
+    .carousel1 {
+        width: 500px;
+        height: 250px;
+        position: relative;
+    }
+
+    .carousel2 {
+        width: 500px;
+        height: 250px;
+        position: relative;
+        margin-top: 70px;
+    }
+
+    #slide11bis, #slide11, #slide12, #slide13 {
+        position: absolute;
+        width: 500px;
+        height: 250px;
+        margin-left: -12px;
+        filter: blur(0);
+    }
+    
+    #slide21bis, #slide21, #slide22, #slide23 {
+        width: 500px;
+        height: 250px;
+        position: absolute;
+        margin-left: -12px;
+        filter: blur(0)
+    }
+    .gray {
+        margin-left: -3px;
+        width: 492px;
+        height: 60px;
+        z-index: 7;
+        background-color: rgba(2, 2, 2, 0.756);
+        color: rgb(184, 184, 184);
+        position: absolute;
+        bottom: -2%;
+        border: 0;
+    }
+
+
+    .titreh3 {
+        width: 100%;
+        margin-top: 4%;
+        margin-left: 5%;
+        font-size: 0.8rem;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #slide11 {
+        z-index: 4;
+        animation: slide11Animation 6s infinite;
+    }
+    
+    #slide11bis {
+        z-index: 4;
+        animation: slide11Animation 6s infinite;
+    }
+    
+    #slide12 {
+        animation: slide12Animation 6s infinite;
+    }
+    
+    #slide13 {
+        animation: slide13Animation 6s infinite;
+    }
+    
+    @keyframes slide11Animation {
+        0% {
+            z-index: 4;
+        }
+        15% {
+            z-index: 4;
+        }
+        50% {
+            z-index: 0;
+        }
+        80% {
+            z-index: 0;
+        }
+    }
+    
+    @keyframes slide12Animation {
+        0% {
+            z-index: 0;
+        }
+        15% {
+            z-index: 0;
+        }
+        50% {
+            z-index: 3;
+        }
+        80% {
+            z-index: 0;
+        }
+    }
+    
+    @keyframes slide13Animation {
+        0% {
+            z-index: 0;
+        }
+        15% {
+            z-index: 0;
+        }
+        50% {
+            z-index: 0;
+        }
+        80% {
+            z-index: 3;
+        }
+    }
+    .titreh2 {
+        margin-left: 10%;
+        margin-top: 40px;
+        padding-bottom: 50px;
+        color: white;
+        font-family: 'Source Code Pro', monospace;
+        font-size: 19px;
+        position: relative;
+        user-select: none;
+    }
+    #animtitre {
+        height: 80px;
+        position: absolute;
+        background: rgb(0, 0, 0);
+        color: rgb(0, 0, 0);
+        font-size: 1rem;
+        z-index: 2;
+        animation: h2680pxAnimation 3s infinite;
+    }
+
+    @keyframes h2680pxAnimation {
+        0% {
+            margin-left: 160px;
+        }
+        24.99% {
+            margin-left: 160px;
+        }
+        25% {
+            margin-left: 145px;
+        }
+        49.99% {
+            margin-left: 145px;
+        }
+        50% {
+            margin-left: 160px;
+        }
+        74.99% {
+            margin-left: 160px;
+        }
+        75% {
+            margin-left: 145px;
+        }
+        99.99% {
+            margin-left: 145px;
+        }
+        100% {
+            margin-left: 160px;
+        }
+    }
+}
+
+@media (max-width: 680px) {
+    #containerprojets {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top: 90px;
+        margin-bottom: 70px;
+        align-items: center;
+        margin-left: 9%;
+        margin-right: 9%;
+    }
+
+    .projets {
+        height: 730px;
+    }
+    .carousel1 {
+        width: 330px;
+        height: 165px;
+        position: relative;
+    }
+
+    .carousel2 {
+        width: 330px;
+        height: 165px;
+        position: relative;
+        margin-top: 70px;
+    }
+
+    #slide11bis, #slide11, #slide12, #slide13 {
+        position: absolute;
+        width: 330px;
+        height: 165px;
+        margin-left: -12px;
+        filter: blur(0);
+    }
+    
+    #slide21bis, #slide21, #slide22, #slide23 {
+        width: 330px;
+        height: 165px;
+        position: absolute;
+        margin-left: -12px;
+        filter: blur(0)
+    }
+    .gray {
+        margin-left: -3px;
+        width: 322px;
+        height: 50px;
+        z-index: 7;
+        background-color: rgba(2, 2, 2, 0.756);
+        color: rgb(184, 184, 184);
+        position: absolute;
+        bottom: -8%;
+        border: 0;
+    }
+
+
+    .titreh3 {
+        width: 100%;
+        margin-top: 4%;
+        margin-left: 5%;
+        font-size: 0.61rem;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #slide11 {
+        z-index: 4;
+        animation: slide11Animation 6s infinite;
+    }
+    
+    #slide11bis {
+        z-index: 4;
+        animation: slide11Animation 6s infinite;
+    }
+    
+    #slide12 {
+        animation: slide12Animation 6s infinite;
+    }
+    
+    #slide13 {
+        animation: slide13Animation 6s infinite;
+    }
+    
+    @keyframes slide11Animation {
+        0% {
+            z-index: 4;
+        }
+        15% {
+            z-index: 4;
+        }
+        50% {
+            z-index: 0;
+        }
+        80% {
+            z-index: 0;
+        }
+    }
+    
+    @keyframes slide12Animation {
+        0% {
+            z-index: 0;
+        }
+        15% {
+            z-index: 0;
+        }
+        50% {
+            z-index: 3;
+        }
+        80% {
+            z-index: 0;
+        }
+    }
+    
+    @keyframes slide13Animation {
+        0% {
+            z-index: 0;
+        }
+        15% {
+            z-index: 0;
+        }
+        50% {
+            z-index: 0;
+        }
+        80% {
+            z-index: 3;
+        }
+    }
+    .titreh2 {
+        margin-left: 10%;
+        margin-top: 40px;
+        padding-bottom: 50px;
+        color: white;
+        font-family: 'Source Code Pro', monospace;
+        font-size: 19px;
+        position: relative;
+        user-select: none;
+    }
+    #animtitre {
+        height: 80px;
+        position: absolute;
+        background: rgb(0, 0, 0);
+        color: rgb(0, 0, 0);
+        font-size: 1rem;
+        z-index: 2;
+        animation: h2680pxAnimation 3s infinite;
+    }
+
+    @keyframes h2680pxAnimation {
+        0% {
+            margin-left: 160px;
+        }
+        24.99% {
+            margin-left: 160px;
+        }
+        25% {
+            margin-left: 145px;
+        }
+        49.99% {
+            margin-left: 145px;
+        }
+        50% {
+            margin-left: 160px;
+        }
+        74.99% {
+            margin-left: 160px;
+        }
+        75% {
+            margin-left: 145px;
+        }
+        99.99% {
+            margin-left: 145px;
+        }
+        100% {
+            margin-left: 160px;
+        }
+    }
+}
+
+
+#competences {
+    background: #000;
+    height: 110vh;
+    z-index: 4;
+    position: relative;
+    margin-top: -100px;
+}
+
+#competences .titreh2test {
+    color: rgb(227, 227, 227);
+}
+
+.positionskills {
+    position: relative;
+}
+
+.skills {
+    position: relative;
+    padding-top: 100px;
+}
+
+.skill {
+    margin-left: 10%;
+    margin-top: 40px;
+    margin-right: 10%;
+    position: relative;
+    width: 80%;
+}
+
+.progress {
+    position: absolute;
+    width: 100%;
+    height: 15px;
+    background: rgb(87, 87, 87);
+}
+
+.progressanim {
+    position: absolute;
+    width: 60%;
+    height: 15px;
+    background: rgb(255, 255, 255);
+    margin-right: 0;
+    z-index: 5;
+    margin-right: 0;
+    animation: progressAnimation 10s infinite;
+}
+
+@keyframes progressAnimation {
+    0% {
+        width: 0;
+    }
+    14% {
+        width: 60%;
+    }
+    100% {
+        width: 60%;
+    }
+}
+
+.progressanim2 {
+    position: absolute;
+    width: 70%;
+    height: 15px;
+    background: rgb(255, 255, 255);
+    margin-right: 0;
+    z-index: 5;
+    animation: progress2Animation 10s infinite;
+    margin-right: 0;
+}
+
+@keyframes progress2Animation {
+    0% {
+        width: 0;
+    }
+    16% {
+        width: 70%;
+    }
+    100% {
+        width: 70%;
+    }
+}
+
+.progressanim3 {
+    position: absolute;
+    width: 40%;
+    height: 15px;
+    background: rgb(255, 255, 255);
+    margin-right: 0;
+    z-index: 5;
+    animation: progress3Animation 10s infinite;
+    margin-right: 0;
+}
+
+@keyframes progress3Animation {
+    0% {
+        width: 0;
+    }
+    10% {
+        width: 40%;
+    }
+    100% {
+        width: 40%;
+    }
+}
+
+
+#services {
+    background: black;
+    height: 130vh;
+    margin-top: -50px;
+}
+
+#services .titreh2test {
+    margin-left: 9.5%;
+    padding-top: 90px;
+    color: rgb(30, 30, 30);
+    font-family: 'Source Code Pro', monospace;
+    position: relative;
+    font-weight: bold;
+}
+
+#containerservices {
+    display: flex;
+    padding-top: 60px;
+    justify-content: space-between;
+}
+
+.design, .developpement, .ergonomie {
+    height: 300px;
+    width: 250px;
+}
+
+video {
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    z-index: 5;
+    filter: blur(2.5px);
+    border-radius: 12px;
+}
+
+.respbg video {
+    opacity: 0;
+    z-index: 0;
+}
+
+.design {
+    margin-left: 10%;
+    margin-right: 20px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    z-index: 5;
+}
+
+.developpement {
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    z-index: 5;
+}
+
+.ergonomie {
+    margin-right: 10%;
+    margin-left: 20px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    z-index: 5;
+}
+
+.designtitre, .designtexte, .developpementtitre, .developpementtexte, .ergonomietitre, .ergonomietexte {
+    position: absolute;
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.designtitre, .developpementtitre, .ergonomietitre {
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    z-index: 6;
+    text-align: center;
+    transition: 0.4s ease-in-out;
+}
+
+#designtitre, #developpementtitre, #ergonomietitre {
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+#designtitre {
+    font-family: "Protest Riot", sans-serif;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+}
+
+#developpementtitre {
+    font-family: 'source code pro';
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+#ergonomietitre {
+    font-family: "quicksand", sans-serif;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+}
+
+
+.designtexte, .developpementtexte, .ergonomietexte {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.1rem;
+    text-align: center;
+    z-index: 5;
+    color: white;
+    opacity: 0;
+    padding-top: 120px;
+    transition: 0.4s ease-in-out;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+
+.design:hover .designtitre, .developpement:hover .developpementtitre, .ergonomie:hover .ergonomietitre {
+    opacity: 0;
+    transition: 0.4s ease-in-out;
+}
+
+
+.design:hover .designtexte, .developpement:hover .developpementtexte, .ergonomie:hover .ergonomietexte {
+    opacity: 1;
+    transition: 0.6s ease-in-out;
+}
+
+@media (min-width: 801px) and (max-width: 1000px) {
+    #containerservices {
+        display: flex;
+        padding-top: 150px;
+        justify-content: space-between;
+    }
+
+    #services {
+        height: 600px;
+    }
+    
+    #services img {
+        height: 600px;
+    }
+
+    .design, .developpement, .ergonomie {
+        height: 240px;
+        width: 200px;
+    }
+
+    .designtitre, .designtexte, .developpementtitre, .developpementtexte, .ergonomietitre, .ergonomietexte {
+        position: absolute;
+        height: 240px;
+        width: 200px;
+        border-radius: 10px;
+    }
+
+    video {
+        position: absolute;
+        width: 200px;
+        height: 240px;
+        z-index: 5;
+        filter: blur(2.5px);
+        border-radius: 12px;
+    }
+    #designtitre {
+        font-family: "Protest Riot", sans-serif;
+        font-size: 1.5rem;
+        text-transform: uppercase;
+    }
+    
+    #developpementtitre {
+        font-family: 'source code pro';
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+    
+    #ergonomietitre {
+        font-family: "quicksand", sans-serif;
+        font-size: 1.5rem;
+        text-transform: uppercase;
+    }
+
+    #designtitre, #developpementtitre, #ergonomietitre {
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+    }
+
+    .designtexte, .developpementtexte, .ergonomietexte {
+        font-family: "Montserrat", sans-serif;
+        font-size: 0.9rem;
+        text-align: center;
+        z-index: 5;
+        color: white;
+        opacity: 0;
+        padding-top: 100px;
+        transition: 0.4s ease-in-out;
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+}
+
+
+@media (min-width: 651px) and (max-width: 800px) {
+    #containerservices {
+        display: flex;
+        flex-direction: column;
+        padding-top: 150px;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    #services {
+        height: 1200px;
+    }
+    
+    #services img {
+        height: 1200px;
+    }
+
+    #designtitre, #developpementtitre, #ergonomietitre {
+        margin-top: 105px;
+    }
+
+    .design, .developpement, .ergonomie {
+        height: 250px;
+        width: 400px;
+    }
+
+    .designtitre, .designtexte, .developpementtitre, .developpementtexte, .ergonomietitre, .ergonomietexte {
+        position: absolute;
+        height: 250px;
+        width: 400px;
+        border-radius: 10px;
+    }
+
+    video {
+        position: absolute;
+        width: 400px;
+        height: 250px;
+        z-index: 0;
+        filter: blur(2.5px);
+        border-radius: 12px;
+    }
+
+    .respbg video {
+        opacity: 1;
+        z-index: 5;
+        position: absolute;
+        width: 400px;
+        height: 250px;
+        filter: blur(2.5px);
+        border-radius: 12px;
+    }
+
+    .design {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .developpement {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 40px;
+    }
+    
+    .ergonomie {
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 650px) {
+    #containerservices {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #services {
+        height: 1330px;
+    }
+    
+    #services img {
+        height: 1330px;
+    }
+
+    .design {
+        margin-left: 0;
+        margin-right: 0;
+        background: url(media/bgmobdesign.JPEG) center/cover;
+    }
+
+    .developpement {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 40px;
+        background: url(media/bgmobdev.JPEG) center/cover;
+    }
+    
+    .ergonomie {
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 40px;
+        background: url(media/bgmobergonomie.JPEG) center/cover;
+    }
+
+    video {
+        opacity: 0;
+    }
+}
+
+.footer {
+    font-family: 'Montserrat', sans-serif;
+    background: rgba(0, 0, 0);
+    color: white;
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 40px;
+    z-index: 8;
+    padding-top: 25px;
+    position: absolute;
+    width: 100%;
+}
+
+.footer ul {
+    list-style: none;
+}
